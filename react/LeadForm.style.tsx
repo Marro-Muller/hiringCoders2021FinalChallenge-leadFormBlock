@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { Button, Paper, TextField } from "@material-ui/core";
+import { Typography, Button, Paper, TextField } from "@material-ui/core";
 
 export const Page = styled(Paper)`
   background-color: #eeeeee;
@@ -9,6 +9,11 @@ export const Page = styled(Paper)`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+`;
+
+export const TypographyStyled = styled(Typography)`
+  color: #212121;
+  font-weight: bold;
 `;
 
 export const TextFieldStyled = styled(TextField)`

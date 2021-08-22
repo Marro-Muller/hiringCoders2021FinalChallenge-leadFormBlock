@@ -1,5 +1,10 @@
 import React, { useState } from "react";
-import { ButtonStyled, Page, TextFieldStyled } from "./LeadForm.style";
+import {
+  ButtonStyled,
+  Page,
+  TextFieldStyled,
+  TypographyStyled,
+} from "./LeadForm.style";
 import InputMask from "react-input-mask";
 import { OutlinedTextFieldProps } from "@material-ui/core";
 import { useCssHandles } from "vtex.css-handles";
@@ -51,6 +56,9 @@ const LeadForm: React.FC = () => {
   return (
     <div className={`${handles.leadForm}`}>
       <Page elevation={2}>
+        <TypographyStyled>
+          Se inscreva para receber nossas promoções!
+        </TypographyStyled>
         <TextFieldStyled
           variant="outlined"
           label="Nome completo"
