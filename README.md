@@ -16,6 +16,8 @@
 
 Este bloco customizado deve ser utilizado no sistema do VTEX IO para coletar dados de leads em forma e salvá-los em uma tabela de leads.
 
+<img alt="leadFormBlock" width="800px" src="leadFormBlock.png"></img>
+
 ## 👨🏻‍💻 Sobre o desafio
 
 - <p>Desenvolver um projeto com o uso de API, sendo que os grupos serão divididos em 3 apresentações (em datas diferentes para bancas diferentes)!
