@@ -32,8 +32,6 @@ Este bloco customizado deve ser utilizado no sistema do VTEX IO para coletar dad
 ### Repositório do projeto
 https://github.com/victorhgadioli/hiringcoders2021-finalChallenge-main
 
-#### Critério opcional
-- Criar um item no adm do VTEX para trazer o conteúdo das leads cadastradas na API Gateway AWS
 
 ### 💻 Desenvolvedores
 - [André Moraes](https://github.com/andreLTMoraes)
