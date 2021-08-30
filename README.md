@@ -7,10 +7,14 @@
 </h3>
 
 <p align="center">
+  <a href="#introdução">Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#dependências-entre-repositórios">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>
 </p>
+
+## Introdução
+
+Este bloco customizado deve ser utilizado no sistema do VTEX IO para coletar dados de leads em forma e salvá-los em uma tabela de leads.
 
 ## 👨🏻‍💻 Sobre o desafio
 
@@ -38,14 +42,6 @@ https://github.com/victorhgadioli/hiringcoders2021-finalChallenge-main
 - [Reginaldo Oliveira](https://github.com/Reginaldo007oliveira)
 - [Victor Martins](https://github.com/VictorFerreiraMartins)
 - [Victor Hugo Gadioli](https://github.com/victorhgadioli)
-
-
-## Dependências entre repositórios
-
-Esta parte é essencial para o correto funcionamento da integração dos apps dos repositórios. As linkagens dos apps ao sistema do VTEX IO deve iniciar pelo app que não possui dependência de outros apps da VTEX. Já o funcionamento do AWS API Gateway é essencial para que o Serviço de GraphQL possa retornar dados mas não é pré-requisito para linkar este app ao sistema do VTEX IO.
-
-<img alt="dependencias" width="800px" src="dependencias.jpg"></img>
-
 
 
 ## 🚀 Tecnologias
