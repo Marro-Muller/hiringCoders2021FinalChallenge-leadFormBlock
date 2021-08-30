@@ -52,7 +52,8 @@ https://github.com/victorhgadioli/hiringcoders2021-finalChallenge-main
 
 Tecnologias que utilizamos para desenvolver esta API Rest:
 
-- [VTEX IO](https://vtex.io/)
+- [Styled Components](https://styled-components.com/)
+- [Material UI](https://material-ui.com/pt/)
 - [React](https://pt-br.reactjs.org/)
-- [Node.js](https://nodejs.org/en/)
+- [VTEX IO](https://vtex.io/)
 - [GraphQL](https://graphql.org/)
