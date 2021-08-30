@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Este bloco customizado deve ser utilizado no sistema do VTEX IO para coletar dados de leads em forma e salvá-los em uma tabela de leads.
+Este bloco customizado deve ser utilizado no sistema do VTEX IO para coletar dados de leads e salvá-los em uma tabela de leads.
 
 <div align="center">
 <img alt="leadFormBlock" width="800px" src="leadFormBlock.png"></img>
@@ -55,7 +55,4 @@ Tecnologias que utilizamos para desenvolver esta API Rest:
 - [VTEX IO](https://vtex.io/)
 - [React](https://pt-br.reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
-- [AWS DynamoDB](https://aws.amazon.com/pt/dynamodb/)
-- [AWS API Gateway](https://aws.amazon.com/pt/api-gateway/)
-- [AWS Lambda](https://aws.amazon.com/pt/lambda/)
 - [GraphQL](https://graphql.org/)
