@@ -4,7 +4,7 @@
 
 <h3 align="center">
   Formulário de cadastro de lead <br> Hiring Coders 2021 <br>  Grupo 25
-</h3
+</h3>
 
 <p align="center">
   <a href="#-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
