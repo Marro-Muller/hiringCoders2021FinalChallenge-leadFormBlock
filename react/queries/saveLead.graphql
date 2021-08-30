@@ -1,0 +1,6 @@
+mutation SAVE_LEAD($name: String!, $email: String!, $phoneNumber: String!, $type: String!) {
+  newLead(lead: { name: $name, email: $email, phoneNumber: $phoneNumber, type: $type }) {
+    statusCode
+    body
+  }
+}

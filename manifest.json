@@ -1,7 +1,7 @@
 {
-  "vendor": "hiringcoders2021",
-  "name": "victorhgadioli-store-lead-register-form",
-  "version": "0.0.1",
+  "vendor": "vtex",
+  "name": "admin-example",
+  "version": "0.1.0",
   "title": "Lead-register",
   "description": "Lead register form",
   "defaultLocale": "pt-BR",
@@ -11,6 +11,7 @@
     "react": "3.x"
   },
   "dependencies": {
+    "hiringcoders202125.leadvtex25": "0.x",
     "vtex.styleguide": "9.x",
     "vtex.css-handles": "0.x",
     "vtex.search-graphql": "0.x",

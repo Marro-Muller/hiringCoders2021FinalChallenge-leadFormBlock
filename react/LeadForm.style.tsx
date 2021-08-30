@@ -5,10 +5,12 @@ import { Typography, Button, Paper, TextField } from "@material-ui/core";
 export const Page = styled(Paper)`
   background-color: #eeeeee;
   padding: 10px;
+  margin: 20px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 `;
 
 export const TypographyStyled = styled(Typography)`
@@ -18,6 +20,7 @@ export const TypographyStyled = styled(Typography)`
 
 export const TextFieldStyled = styled(TextField)`
   margin: 10px 0;
+
   .MuiInputBase {
     background-color: #eeeeee;
   }
